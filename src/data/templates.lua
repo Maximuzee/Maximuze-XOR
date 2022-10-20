@@ -1,6 +1,6 @@
 -------------------- Template: credit
 -------------------- Template: keyInputCode
-key = "LONTE"
+key = "PASSWORD"
 -------------------- Template: keyInputCodeGG
 key = gg.prompt({"Password:"}, {""}, {"text"})[1]
 -------------------- Template: main
